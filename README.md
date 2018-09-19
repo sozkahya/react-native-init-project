@@ -1,1 +1,1 @@
-<img src="/docs/git-logo.jpg" alt="React Native Starter Kit" width="400" />
+<img src="/docs/git-logo.jpg" alt="React Native Starter Kit" />
