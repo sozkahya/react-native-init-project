@@ -1,6 +1,8 @@
 <div align="center">
     <img src="/docs/git-logo.jpg" alt="React Native Starter Kit" height=250 />
 </div>
+<br />
+<br />
 <div align="center">
 
 [![GitHub tag](https://img.shields.io/github/tag/sozkahya/react-native-init-project.svg?style=flat-square)](https://github.com/sozkahya/react-native-init-project/tags)
