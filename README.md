@@ -10,3 +10,6 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/sozkahya/react-native-init-project.svg?style=plastic&colorB=8AC0BF)](https://github.com/sozkahya/react-native-init-project/issues-pr)
 
 </div>
+<br />
+
+---
