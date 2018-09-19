@@ -1,2 +1,1 @@
-# react-native-init-project
-React Native Get Starting Project
+<img src="/docs/git-logo.jpg" alt="React Native Starter Kit" width="400" />
