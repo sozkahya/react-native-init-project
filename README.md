@@ -39,7 +39,6 @@ What / Which? | Why?
 [ESLint](http://eslint.org) | ESlint warns you whenever you doing something wrong.It teachs you, how you have to code. So, your code will be clean, readable, more stable and more optimized. Use this, guys, please use this.
 [Jest Test Framework](https://facebook.github.io/jest/) | Jest is a Test Framework developed and used by Facebook. We're not using -for now- on this project but you can use.
 
-<br />>
 <h2>How do I get usage!?</h2>
 <br />
 
