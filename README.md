@@ -51,3 +51,6 @@ What / Which? | Why?
 First: `yarn install`,  
 Second: After you yarn install, go to the ios folder in the project from your Terminal / Console. `pod install`
 
+<h2>How can I contact with you?</h2>
+<br/>
+E-mail me for any questions! s.ozkahya@gmail.com
