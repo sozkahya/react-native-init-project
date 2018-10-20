@@ -33,7 +33,25 @@ What / Which? | Why?
 [Axios](https://redux.js.org) | We need service call... This is why we need Axios.
 [Redux](https://github.com/axios/axios) | We need more than component's own states... This is why we need Redux
 [React Native Scalable Text](https://github.com/knowbody/react-native-text) | There is infinite screen resolutions and we are developing our apps to all of them (almost) And we are using Text component all the time but there is an issue... This component is not scaling itself for all resolutions but we have Scalable Text for that!
+[React Native Fast Image](https://github.com/DylanVann/react-native-fast-image) | We need to caching the images we use... This is why we need React Native Fast Image.
 [Lodash](https://lodash.com) | Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc. This is why we need Lodash
 [Styled-Components](https://www.styled-components.com) | It removes the mapping between components and styles – using components as a low-level styling construct could not be easier!.
 [ESLint](http://eslint.org) | ESlint warns you whenever you doing something wrong.It teachs you, how you have to code. So, your code will be clean, readable, more stable and more optimized. Use this, guys, please use this.
 [Jest Test Framework](https://facebook.github.io/jest/) | Jest is a Test Framework developed and used by Facebook. We're not using -for now- on this project but you can use.
+
+<br />>
+<h2>How do I get usage!?</h2>
+<br />
+
+<p>There is 3 ways for using;</p>
+<br />
+<p>1) Fork</p>
+<p>2) Clone</p>
+<p>3) Download ZIP</p>
+<br />
+<p>After you get this project on your MAC or PC, go to project folder from your Terminal / Console. After that, use these commands down below;</p>
+<br />
+
+First: `yarn install`,  
+Second: After you yarn install, go to the ios folder in the project from your Terminal / Console. `pod install`
+
