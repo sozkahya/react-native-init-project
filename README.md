@@ -23,6 +23,9 @@
   <p>-Reduce Complexity (The project will reduce complexity grows)</p>
 </div>
 
+<h2>Used Libraries:</h2>
+<br />
+
 What / Which? | Why?
 ---------------- | -------------
 [React Native Navigation](https://github.com/wix/react-native-navigation) | Thanks a lot to Wix Team for this brilliant job. We are using React Native because it's `native` right? So we need Native Navigation!
