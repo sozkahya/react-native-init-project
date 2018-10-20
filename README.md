@@ -41,13 +41,10 @@ What / Which? | Why?
 
 <h2>How do I get usage!?</h2>
 <br />
-
 <p>There is 3 ways for using;</p>
-<br />
-<p>1) Fork</p>
-<p>2) Clone</p>
-<p>3) Download ZIP</p>
-<br />
+1) Fork
+2) Clone
+3) Download ZIP
 <p>After you get this project on your MAC or PC, go to project folder from your Terminal / Console. After that, use these commands down below;</p>
 <br />
 
