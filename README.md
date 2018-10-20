@@ -1,3 +1,5 @@
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+
 <div align="center">
   <img src="/docs/git-logo.jpg" alt="React Native Starter Kit" height=250 />
 </div>
@@ -19,7 +21,6 @@
   <p style="font-family:Montserrat;">We did a lot of projects with React-Native. We built this structure within the framework of our experiences. We continue to improve ourselves.We need your comments.</p>
 
   <h3 style="font-family:Montserrat;">Benefits:</h1>
-  -
   <p style="font-family:Montserrat;">-Convenience (Beginning of the project will provide convenience)</p>
   <p style="font-family:Montserrat;">-Reduce Complexity (The project will reduce complexity grows)</p>
 </div>
